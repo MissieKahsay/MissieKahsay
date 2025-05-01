@@ -19,11 +19,10 @@
   ```javascript
   
   const mussieKahsay = {
-      name: "Mussie Kahsay",
-      occupation: "Full-Stack Web Developer",
-      Programming Languages: ["JavaScript", "Java", "Python", "Ruby",],
-      Web Technologies: ["React.js", "Vue.js", "Node.js", "Express.js", "Redux", "Bootstrap"],
+      name: "Missie Kahsay",
+      Languages: ["JavaScript", "Java", "Python", "Ruby", "SQL"],
       Database Technologies: ["MySQL", "PostgreSQL", "MongoDBGit", "Docker", "Jenkins", "Spring Boot", "Angular"],
+      Frameworks/Tools: ["REST APIs", "Scalable Systems", TDD, "Agile Methodologies"],
   }
   
   ```
