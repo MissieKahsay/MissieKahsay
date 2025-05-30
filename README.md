@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Missie Kahsay
 
-AWS Certified Software Engineer with 6+ years of experience building full-stack, cloud-native applications.  
+AWS Certified Software Engineer experienced in building full-stack, cloud-native applications.  
 Skilled in Java, Spring Boot, Node.js, React, and PostgreSQL — with a strong focus on scalability, performance, and clean code.
 
 ---
@@ -16,5 +16,14 @@ Skilled in Java, Spring Boot, Node.js, React, and PostgreSQL — with a strong f
 
 ---
 
-📫 **Let’s connect**:  
-[LinkedIn](https://www.linkedin.com/in/missiekahsay/) · [Email Me](mailto:missiekahsay@gmail.com)
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/missiekahsay/" target="_blank">
+  <img src="https://img.icons8.com/color/28/linkedin.png" alt="LinkedIn"/>
+</a> &nbsp;
+<a href="mailto:missiekahsay@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/28/apple-mail.png" alt="Email"/>
+</a> &nbsp;
+<a href="https://missie-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.icons8.com/fluency/28/domain.png" alt="Portfolio"/>
+</a>
