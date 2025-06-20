@@ -1,18 +1,18 @@
 ## 👋 Hi, I'm Missie Kahsay
 
-AWS Certified Software Engineer experienced in building full-stack, cloud-native applications.  
-Skilled in Java, Spring Boot, Node.js, React, and PostgreSQL — with a strong focus on scalability, performance, and clean code.
+**AWS Certified Software Engineer** with 6+ years of experience building full-stack, cloud-native applications.  
+Proficient in **Java**, **Spring Boot**, **Node.js**, **React**, and **PostgreSQL**, with a strong focus on scalability, clean code, and performance.
 
 ---
 
 ### ⚙️ Tech Stack
 
-**Languages**: Java, JavaScript, Python  
-**Backend**: Spring Boot, Node.js, Express  
-**Frontend**: React, Vue.js  
-**Cloud/DevOps**: AWS, Docker, Kubernetes, Terraform  
+**Languages**: Java, JavaScript, TypeScript  
+**Backend**: Spring Boot, Node.js, Express.js  
+**Frontend**: React.js, Vue.js  
+**Cloud / DevOps**: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Terraform  
 **Databases**: PostgreSQL, MongoDB, MySQL  
-**Other**: Git, Jenkins, REST APIs, Agile
+**Other Tools**: Git, Jenkins, REST APIs, Agile/Scrum
 
 ---
 
